@@ -1,6 +1,6 @@
 const CONFIG = {
   vid: "23c47d299b7690d3_1791484010",
-  fallback: "https://t.me/+whEw6n0dq6llYmNl",
+  fallback: "https://t.me/+LWr2hcTQomQ4NmY1",
   pixelId: "2373740533365703"
 };
 
