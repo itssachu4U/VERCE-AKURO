@@ -1,4 +1,18 @@
 {
   "version": 2,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/api/event",
+      "dest": "/event.js"
+    },
+    {
+      "src": "/api/get-link",
+      "dest": "/get-link.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
 }
