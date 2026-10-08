@@ -1,7 +1,7 @@
 const CONFIG = {
   vid: "23c47d299b7690d3_1791484010",
   fallback: "https://t.me/+LWr2hcTQomQ4NmY1",
-  pixelId: "2373740533365703"
+  pixelId: "1416219023281793"
 };
 
 const params = new URLSearchParams(location.search);
